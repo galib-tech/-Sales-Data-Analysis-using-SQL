@@ -118,9 +118,12 @@ This project reflects practical SQL skills required for roles like:
 
 ## 📌 Author
 
-👤 **Md. Abdullah**
-📧 [abdullah.olmg@gmail.com](mailto:abdullah.olmg@gmail.com)
-🔗 (Add your LinkedIn / GitHub profile here)
+👤 **Asadullah Al Galib**
+
+📧 [asadullahgalib648@gmail.com](mailto:asadullahgalib648@gmail.com)
+
+🔗LinkedIn: https://www.linkedin.com/in/asadullah-al-galib-2a4527404/
+  GitHub: https://github.com/galib-tech
 
 ---
 
